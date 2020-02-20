@@ -14,3 +14,6 @@ Simple Erp at any scale
   * Local
   * S3
   * ....
+* easy authentication integration
+  * oauth2
+  * active dir / office365
