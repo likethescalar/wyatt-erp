@@ -8,9 +8,9 @@ Simple Erp at any scale
 * ad hoc reporting
 * text based backend storage
 * many options for backing store (kind of like draw.io)
- * Sharepoint
- * Google Drive
- * Dropbox
- * Local
- * S3
- * ....
+  * Sharepoint
+  * Google Drive
+  * Dropbox
+  * Local
+  * S3
+  * ....
